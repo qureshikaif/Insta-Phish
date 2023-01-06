@@ -12,6 +12,7 @@ if(isset($_POST['login'])) {
     header('Location:accountreviewed.php');    
 }
 */
+
 ?>
 <html lang="en">
 <head>
